@@ -1,0 +1,31 @@
+name,species,breed,age,gender
+Buddy,Dog,Golden Retriever,3,Male
+Whiskers,Cat,Persian,2,Female
+Max,Dog,Labrador Retriever,5,Male
+Luna,Cat,Siamese,4,Female
+Coco,Parrot,African Grey,10,Female
+Rocky,Hamster,Syrian,1,Male
+Bella,Dog,Beagle,6,Female
+Charlie,Cat,Maine Coon,3,Male
+Oliver,Rabbit,Dutch,2,Male
+Daisy,Dog,Poodle,4,Female
+Milo,Cat,British Shorthair,5,Male
+Lily,Hamster,Dwarf,0.5,Female
+Rocky,Guinea Pig,American,1,Male
+Coco,Bird,Canary,2,Female
+Max,Dog,German Shepherd,7,Male
+Luna,Cat,Sphynx,3,Female
+Buddy,Dog,Bulldog,8,Male
+Whiskers,Cat,Ragdoll,4,Female
+Charlie,Bird,Budgie,1,Male
+Bella,Rabbit,Flemish Giant,3,Female
+Oliver,Hamster,Roborovski,0.5,Male
+Daisy,Guinea Pig,Peruvian,2,Female
+Milo,Dog,Dalmatian,9,Male
+Lily,Cat,Abyssinian,5,Female
+Rocky,Bird,Lovebird,1,Male
+Coco,Rabbit,Netherland Dwarf,2,Female
+Max,Hamster,Chinese,0.5,Male
+Luna,Guinea Pig,Teddy,1,Female
+Buddy,Dog,Boxer,7,Male
+Whiskers,Cat,Scottish Fold,4,Female
